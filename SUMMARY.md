@@ -15,6 +15,7 @@
     * [E：对用户申请成为管理人员的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/e-dui-yong-hu-shen-qing-cheng-wei-guan-li-ren-yuan-de-yao-qiu.md)
     * [F：对用户制定各类规定的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/f-dui-yong-hu-zhi-ding-ge-lei-gui-ding-de-yao-qiu.md)
     * [G：对用户组织活动和创建组织的规定](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/g-dui-yong-hu-zu-zhi-huo-dong-he-chuang-jian-zu-zhi-de-gui-ding.md)
+  * [（2）对于管理人员行使权力的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu.md)
 
 ## The Formal Stuff
 

@@ -4,54 +4,30 @@ cover: >-
 coverY: 0
 ---
 
-# 物理实验室中国区管理条例
+# Vision and Values
 
-## 目录
+## Our Vision
 
 {% hint style="info" %}
-自发性的同步，从原文复制粘贴，本页面与物理实验室无关，仅供方便查阅，要求准确请以物理实验室内管理条例为准。
-
-新更新日期为2022.4.26
-
-黑洞区精选要求见 精选总结 且随时更改（本文同步较慢），管理条例部分新条例通过后会在本页更新上，但是新内容会被线划去，待物理实验室内管理条例添加后删去本文划线
+**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
 {% endhint %}
 
-### 一、前言
+Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
 
-### **二、各项管理规定**
+## Our Values
 
-**（1）对于用户的要求**
+{% hint style="info" %}
+**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
+{% endhint %}
 
-A:对用户的基本要求
+### Be Compassionate
 
-B：对用户发表评论的要求
+We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
 
-C：对用户发布作品的要求
+### Be Mindful
 
-D：对用户申请精选及知识库的规定
+We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
 
-E：对用户申请成为管理人员的要求
+### Research First
 
-F：对用户制定各类规定的要求
-
-G：对用户组织活动和创建组织的规定
-
-**（2）对于管理人员行使权力的要求**
-
-A：对管理人员的基本要求
-
-B：对管理人员修改他人作品的规定
-
-C：对管理人员添加志愿者的规定
-
-**（3）关于举行见习编辑选举大会的规定**
-
-A：对参加选举的用户及选举大会负责人的规定
-
-B：举行（或不举行）选举大会的条件及主要步骤
-
-**（4）日常违规行为的处罚方式**
-
-### 三、部分词汇的定义
-
-### 四、后记
+We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
