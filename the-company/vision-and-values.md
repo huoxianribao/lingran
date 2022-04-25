@@ -6,10 +6,12 @@ coverY: 0
 
 # 物理实验室中国区管理条例
 
-## Our Values
+## 目录
 
 {% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
+自发性的同步，与物理实验室无关，以物理实验室内更新为准。
+
+新更新日期为2022.4.26
 {% endhint %}
 
 ### Be Compassionate
