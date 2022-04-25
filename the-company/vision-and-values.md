@@ -6,8 +6,6 @@ coverY: 0
 
 # 物理实验室中国区管理条例
 
-ugh curating beautiful, practical, consciously-produced products.
-
 ## Our Values
 
 {% hint style="info" %}
