@@ -4,8 +4,8 @@
 
 ## 管理条例
 
-* [Vision and Values](guan-li-tiao-li/vision-and-values.md)
-* [Meet the Team!](guan-li-tiao-li/meet-the-team.md)
+* [物理实验室中国区管理条例](guan-li-tiao-li/wu-li-shi-yan-shi-zhong-guo-qu-guan-li-tiao-li.md)
+* [Meet the Team!](the-company/meet-the-team.md)
 
 ## The Formal Stuff
 
