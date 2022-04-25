@@ -2,10 +2,10 @@
 
 * [物理实验室-CN](README.md)
 
-## The Company
+## 管理条例
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](guan-li-tiao-li/vision-and-values.md)
+* [Meet the Team!](guan-li-tiao-li/meet-the-team.md)
 
 ## The Formal Stuff
 
