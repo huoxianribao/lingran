@@ -11,7 +11,7 @@
     * [A:对用户的基本要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/a-dui-yong-hu-de-ji-ben-yao-qiu.md)
     * [B：对用户发表评论的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/b-dui-yong-hu-fa-biao-ping-lun-de-yao-qiu.md)
     * [C：对用户发布作品的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/c-dui-yong-hu-fa-bu-zuo-pin-de-yao-qiu.md)
-    * [Page 4](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/page-4.md)
+    * [D：对用户申请精选及知识库的规定规定](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/d-dui-yong-hu-shen-qing-jing-xuan-ji-zhi-shi-ku-de-gui-ding-gui-ding.md)
     * [Page 5](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/page-5.md)
     * [Page 6](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/page-6.md)
     * [Page 7](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/page-7.md)
