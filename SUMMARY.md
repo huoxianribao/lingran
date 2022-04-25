@@ -5,7 +5,7 @@
 ## 管理条例
 
 * [物理实验室中国区管理条例](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [前言](guan-li-tiao-li/qian-yan.md)
 
 ## The Formal Stuff
 
