@@ -11,7 +11,7 @@ coverY: 0
 {% hint style="info" %}
 自发性的同步，从原文复制粘贴，本页面与物理实验室无关，仅供方便查阅，要求准确请以物理实验室内管理条例为准。
 
-gitbook的问题需要清除缓存才能阅读新版本
+gitbook的问题需要清除缓存才能阅读新版本，[具体请看前言](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li.md#yi-qian-yan)
 
 新更新日期为2022.4.26
 
