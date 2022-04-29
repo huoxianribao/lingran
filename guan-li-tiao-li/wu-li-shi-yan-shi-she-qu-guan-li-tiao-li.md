@@ -15,7 +15,7 @@ coverY: 0
 
 **请遵守您所在的国家的法律**
 
-gitbook的问题需要清除缓存才能阅读新版本，[具体请看前言](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li.md#yi-qian-yan)
+<mark style="color:red;">**gitbook的问题需要清除缓存才能阅读新版本**</mark>，[具体请看前言](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li.md#yi-qian-yan)
 
 黑洞区精选要求见 精选总结 且随时更改（本文同步较慢），管理条例部分新条例通过后会在本页更新上，但是新内容会被线划去，待物理实验室内管理条例添加后删去本文划线
 
@@ -26,23 +26,23 @@ gitbook的问题需要清除缓存才能阅读新版本，[具体请看前言](w
 
 ### **二、各项管理规定**
 
-**（1）对于用户的要求**
+****[<mark style="color:orange;">**（1）对于用户的要求**</mark>](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/)<mark style="color:orange;">****</mark>
 
-A:对用户的基本要求
+[A：对用户的基本要求](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/a-dui-yong-hu-de-ji-ben-yao-qiu.md)
 
-B：对用户发表评论的要求
+[B：对用户发表评论的要求](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/b-dui-yong-hu-fa-biao-ping-lun-de-yao-qiu.md)
 
-C：对用户发布作品的要求
+[C：对用户发布作品的要求](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/c-dui-yong-hu-fa-bu-zuo-pin-de-yao-qiu.md)
 
-D：对用户申请精选及知识库的规定
+[D：对用户申请精选及知识库的规定](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/d-dui-yong-hu-shen-qing-jing-xuan-ji-zhi-shi-ku-de-gui-ding-gui-ding.md)
 
-E：对用户申请成为管理人员的要求
+[E：对用户申请成为管理人员的要求](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/e-dui-yong-hu-shen-qing-cheng-wei-guan-li-ren-yuan-de-yao-qiu.md)
 
-F：对用户制定各类规定的要求
+[F：对用户制定各类规定的要求](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/f-dui-yong-hu-zhi-ding-ge-lei-gui-ding-de-yao-qiu.md)
 
-G：对用户组织活动和创建组织的规定
+[G：对用户组织活动和创建组织的规定](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/g-dui-yong-hu-zu-zhi-huo-dong-he-chuang-jian-zu-zhi-de-gui-ding.md)
 
-**（2）对于管理人员行使权力的要求**
+<mark style="color:orange;">****</mark>[<mark style="color:orange;">**（2）对于管理人员行使权力的要求**</mark>](er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu.md)<mark style="color:orange;">****</mark>
 
 A：对管理人员的基本要求
 
@@ -50,13 +50,13 @@ B：对管理人员修改他人作品的规定
 
 C：对管理人员添加志愿者的规定
 
-**（3）关于举行见习编辑选举大会的规定**
+<mark style="color:orange;">**（3）关于举行见习编辑选举大会的规定**</mark>
 
 A：对参加选举的用户及选举大会负责人的规定
 
 B：举行（或不举行）选举大会的条件及主要步骤
 
-**（4）日常违规行为的处罚方式**
+<mark style="color:orange;">**（4）日常违规行为的处罚方式**</mark>
 
 ### 三、部分词汇的定义
 
