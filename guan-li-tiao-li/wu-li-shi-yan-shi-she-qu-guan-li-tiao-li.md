@@ -15,7 +15,7 @@ coverY: 0
 
 **请遵守您所在的国家的法律**
 
-<mark style="color:red;">**gitbook的问题需要清除缓存才能阅读新版本**</mark>，[具体请看首页前言](https://ziyilingran.gitbook.io/first/)
+<mark style="color:red;">**gitbook的问题需要清除缓存才能阅读新版本**</mark>，[具体请看前言](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li.md#yi-qian-yan)
 
 黑洞区精选要求见 精选总结 且随时更改（本文同步较慢），管理条例部分新条例通过后会在本页更新上，但是新内容会被线划去，待物理实验室内管理条例添加后删去本文划线
 
