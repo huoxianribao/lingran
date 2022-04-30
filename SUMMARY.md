@@ -38,6 +38,7 @@
 ## 精选镜像
 
 * [前言](group-1/page-1.md)
-* [时间目录](jing-xuan-jing-xiang/shi-jian-mu-lu.md)
-* [学科目录](jing-xuan-jing-xiang/xue-ke-mu-lu.md)
+* [【T↓】时间目录](jing-xuan-jing-xiang/t-shi-jian-mu-lu.md)
+* [【T↑】时间目录](jing-xuan-jing-xiang/t-shi-jian-mu-lu-1.md)
+* [分类目录](jing-xuan-jing-xiang/fen-lei-mu-lu.md)
 * [文章](jing-xuan-jing-xiang/wen-zhang.md)
