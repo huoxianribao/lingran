@@ -25,12 +25,12 @@ coverY: 0
 
 分支下午无单独目录页面，总目录请看左侧，手机页面清点左上角三个点，PC页面右侧有小目录
 
-<mark style="color:red;">**优先更新总和页面**</mark>
+<mark style="color:red;">**优先更新大分支下的总和页面**</mark>
 {% endhint %}
 
 ## 目录
 
-### 一、前言
+### [一、前言](yi-qian-yan.md)
 
 ### **二、各项管理规定**
 
@@ -52,20 +52,30 @@ coverY: 0
 
 <mark style="color:orange;">****</mark>[<mark style="color:orange;">**（2）对于管理人员行使权力的要求**</mark>](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/)<mark style="color:orange;">****</mark>
 
-A：对管理人员的基本要求
+[A：对管理人员的基本要求](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/a-dui-guan-li-ren-yuan-de-ji-ben-yao-qiu.md)
 
-B：对管理人员修改他人作品的规定
+[B：对管理人员修改他人作品的规定](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/b-dui-guan-li-ren-yuan-xiu-gai-ta-ren-zuo-pin-de-gui-ding.md)
 
-C：对管理人员添加志愿者的规定
+[C：对管理人员添加志愿者的规定](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/c-dui-guan-li-ren-yuan-tian-jia-zhi-yuan-zhe-de-gui-ding.md)
 
-<mark style="color:orange;">**（3）关于举行见习编辑选举大会的规定**</mark>
+<mark style="color:orange;">****</mark>[<mark style="color:orange;">**（3）关于举行见习编辑选举大会的规定**</mark>](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/)<mark style="color:orange;">****</mark>
 
-A：对参加选举的用户及选举大会负责人的规定
+[A：对参加选举的用户及选举大会负责人的规定](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/a-dui-can-jia-xuan-ju-de-yong-hu-ji-xuan-ju-da-hui-fu-ze-ren-de-gui-ding.md)
 
-B：举行（或不举行）选举大会的条件及主要步骤
+[B：举行（或不举行）选举大会的条件及主要步骤](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/b-ju-hang-huo-bu-ju-hang-xuan-ju-da-hui-de-tiao-jian-ji-zhu-yao-bu-zhou.md)
 
-<mark style="color:orange;">**（4）日常违规行为的处罚方式**</mark>
+[C：认证编辑/管理员组织选举大会的步骤及其它规定](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/c-ren-zheng-bian-ji-guan-li-yuan-zu-zhi-xuan-ju-da-hui-de-bu-zhou-ji-qi-ta-gui-ding.md)
 
-### 三、部分词汇的定义
+<mark style="color:orange;">****</mark>[<mark style="color:orange;">**（4）日常违规行为的处罚方式**</mark>](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/4-ri-chang-wei-gui-hang-wei-de-chu-fa-fang-shi.md)<mark style="color:orange;">****</mark>
 
-### 四、后记
+### [三、部分词汇的定义](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/)
+
+[A：行为](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/a-hang-wei.md)
+
+[B：用户](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/b-yong-hu.md)
+
+[C：作品](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/c-zuo-pin.md)
+
+[D：其它](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/d-qi-ta.md)
+
+### [四、后记](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/si-hou-ji.md)
