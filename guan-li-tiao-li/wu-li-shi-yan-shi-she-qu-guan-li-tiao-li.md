@@ -6,7 +6,7 @@ coverY: 0
 
 # 物理实验室社区管理条例
 
-## 目录
+## 提示
 
 {% hint style="info" %}
 自发性的同步，从原文复制粘贴，本页面与物理实验室无关，仅供方便查阅，要求准确请以物理实验室内管理条例为准。
@@ -17,7 +17,7 @@ coverY: 0
 
 <mark style="color:red;">**gitbook的问题需要清除缓存才能阅读新版本**</mark>，[具体请看首页前言](https://ziyilingran.gitbook.io/first/)
 
-黑洞区精选要求见 精选总结 且随时更改（本文同步较慢），管理条例部分新条例通过后会在本页更新上，但是新内容会被线划去，待物理实验室内管理条例添加后删去本文划线
+黑洞区精选要求见 精选总结 且随时更改（本文同步较慢），管理条例部分新条例通过后会在本页更新上，但是新内容会被线划去，待物理实验室内管理条例添加后删去本文划线（添加新内容即为已执行）
 
 新更新日期为2022.4.26
 
@@ -27,6 +27,8 @@ coverY: 0
 
 <mark style="color:red;">**优先更新总和页面**</mark>
 {% endhint %}
+
+## 目录
 
 ### 一、前言
 
@@ -48,7 +50,7 @@ coverY: 0
 
 [G：对用户组织活动和创建组织的规定](er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/g-dui-yong-hu-zu-zhi-huo-dong-he-chuang-jian-zu-zhi-de-gui-ding.md)
 
-<mark style="color:orange;">****</mark>[<mark style="color:orange;">**（2）对于管理人员行使权力的要求**</mark>](er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu.md)<mark style="color:orange;">****</mark>
+<mark style="color:orange;">****</mark>[<mark style="color:orange;">**（2）对于管理人员行使权力的要求**</mark>](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/)<mark style="color:orange;">****</mark>
 
 A：对管理人员的基本要求
 

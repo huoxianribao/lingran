@@ -15,7 +15,15 @@
       * [E：对用户申请成为管理人员的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/e-dui-yong-hu-shen-qing-cheng-wei-guan-li-ren-yuan-de-yao-qiu.md)
       * [F：对用户制定各类规定的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/f-dui-yong-hu-zhi-ding-ge-lei-gui-ding-de-yao-qiu.md)
       * [G：对用户组织活动和创建组织的规定](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/1-dui-yu-pu-tong-yong-hu-de-yao-qiu/g-dui-yong-hu-zu-zhi-huo-dong-he-chuang-jian-zu-zhi-de-gui-ding.md)
-    * [（2）对于管理人员行使权力的要求](guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu.md)
+    * [（2）对于管理人员行使权力的要求](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/README.md)
+      * [A：对管理人员的基本要求](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/a-dui-guan-li-ren-yuan-de-ji-ben-yao-qiu.md)
+      * [B：对管理人员修改他人作品的规定](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/b-dui-guan-li-ren-yuan-xiu-gai-ta-ren-zuo-pin-de-gui-ding.md)
+      * [C：对管理人员添加志愿者的规定](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/2-dui-yu-guan-li-ren-yuan-hang-shi-quan-li-de-yao-qiu/c-dui-guan-li-ren-yuan-tian-jia-zhi-yuan-zhe-de-gui-ding.md)
+    * [（3）关于举行见习编辑选举大会的规定](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/README.md)
+      * [A：对参加选举的用户及选举大会负责人的规定](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/a-dui-can-jia-xuan-ju-de-yong-hu-ji-xuan-ju-da-hui-fu-ze-ren-de-gui-ding.md)
+      * [B：举行（或不举行）选举大会的条件及主要步骤：](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/b-ju-hang-huo-bu-ju-hang-xuan-ju-da-hui-de-tiao-jian-ji-zhu-yao-bu-zhou.md)
+      * [C：认证编辑/管理员组织选举大会的步骤及其它规定：](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/c-ren-zheng-bian-ji-guan-li-yuan-zu-zhi-xuan-ju-da-hui-de-bu-zhou-ji-qi-ta-gui-ding.md)
+    * [（4）日常违规行为的处罚方式](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/4-ri-chang-wei-gui-hang-wei-de-chu-fa-fang-shi.md)
 
 ***
 
