@@ -33,11 +33,11 @@
 
 ***
 
-* [精选条例总结](jing-xuan-tiao-li-zong-jie.md)
+* [精选条例总结](jing-xuan-zong-jie.md)
 
 ## 精选镜像
 
-* [前言](jing-xuan-jing-xiang/qian-yan.md)
+* [前言](group-1/page-1.md)
 * [时间目录](jing-xuan-jing-xiang/shi-jian-mu-lu.md)
 * [学科目录](jing-xuan-jing-xiang/xue-ke-mu-lu.md)
 * [文章](jing-xuan-jing-xiang/wen-zhang.md)
