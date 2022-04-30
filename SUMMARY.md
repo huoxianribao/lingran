@@ -24,6 +24,12 @@
       * [B：举行（或不举行）选举大会的条件及主要步骤：](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/b-ju-hang-huo-bu-ju-hang-xuan-ju-da-hui-de-tiao-jian-ji-zhu-yao-bu-zhou.md)
       * [C：认证编辑/管理员组织选举大会的步骤及其它规定：](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/3-guan-yu-ju-hang-jian-xi-bian-ji-xuan-ju-da-hui-de-gui-ding/c-ren-zheng-bian-ji-guan-li-yuan-zu-zhi-xuan-ju-da-hui-de-bu-zhou-ji-qi-ta-gui-ding.md)
     * [（4）日常违规行为的处罚方式](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/er-ge-xiang-guan-li-gui-ding/4-ri-chang-wei-gui-hang-wei-de-chu-fa-fang-shi.md)
+  * [三、部分词汇的定义](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/README.md)
+    * [A：行为](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/a-hang-wei.md)
+    * [B：用户](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/b-yong-hu.md)
+    * [C：作品](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/c-zuo-pin.md)
+    * [D：其它](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/d-qi-ta.md)
+  * [四、后记](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/si-hou-ji.md)
 
 ***
 
