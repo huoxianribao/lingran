@@ -14,10 +14,8 @@
 
 web端目录下跳转到本库的文章，在文章下会提供原文链接和原文序号
 
+求收录文章可发邮件到ziyilingran@qq.com，邮件主题请加中括号与文章名称
+
 求编辑/志愿者问一下精选是否同意收录，网址：`https://ziyilingran.gitbook.io/first/`
 
-> 求收录文章可发邮件到ziyilingran@qq.com，文章请使用附件发送
->
-> 邮件主题请在前面加【收录】 `例：【收录】月球对地球的作用`
->
-> 文章需要使用html，docx/doc不会兼容颜色字，[具体点我看这里的效果](https://app.gitbook.com/s/gi2XzLKVW0Gvv3YFZWIq/\~/changes/ksliRF3mYPm0aNkmxcPy/jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia)
+`例：【收录】月球对地球的作用`
