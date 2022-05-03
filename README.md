@@ -31,6 +31,13 @@ apk为安卓安装包，~~安全无~~毒，后期安装包更新超过100兆可�
 * [物理实验室](https://z1y.lanzouw.com/b00ngmk7e)&#x20;
 * [海龟实验室](https://z1y.lanzouw.com/b00ogcegd) 密码：6qpp
 
+### IOS端tf测试链接
+
+`无短链接`
+
+* [物理实验室IOS](https://testflight.apple.com/join/tGtt3yIq)
+* [海龟实验室IOS](https://testflight.apple.com/join/tg7pw4VV)
+
 ## 目录
 
 [管理条例](broken-reference)
