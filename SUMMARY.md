@@ -57,6 +57,7 @@
   * [文化/器物发展史](jing-xuan-jing-xiang/fen-lei-mu-lu/wen-hua-qi-wu-fa-zhan-shi.md)
   * [教程与其他](jing-xuan-jing-xiang/fen-lei-mu-lu/jiao-cheng-yu-qi-ta.md)
 * [文章](jing-xuan-jing-xiang/wen-zhang.md)
+* [强基计划](jing-xuan-jing-xiang/qiang-ji-ji-hua.md)
 * [投稿演示](jing-xuan-jing-xiang/tou-gao-yan-shi/README.md)
   * [word文件导入效果如下](jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia.md)
   * [目录](jing-xuan-jing-xiang/tou-gao-yan-shi/mu-lu.md)
