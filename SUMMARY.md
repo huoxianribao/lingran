@@ -46,6 +46,7 @@
   * [力学](jing-xuan-jing-xiang/fen-lei-mu-lu/li-xue.md)
   * [电与磁](jing-xuan-jing-xiang/fen-lei-mu-lu/dian-yu-ci.md)
   * [天体物理](jing-xuan-jing-xiang/fen-lei-mu-lu/tian-ti-wu-li.md)
+  * [天文学](jing-xuan-jing-xiang/fen-lei-mu-lu/tian-wen-xue.md)
   * [人体](jing-xuan-jing-xiang/fen-lei-mu-lu/ren-ti.md)
   * [植物](jing-xuan-jing-xiang/fen-lei-mu-lu/zhi-wu.md)
   * [动物](jing-xuan-jing-xiang/fen-lei-mu-lu/dong-wu.md)
