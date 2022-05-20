@@ -16,7 +16,7 @@ coverY: 0
 
 ## 下载
 
-* [官网](https://static.turtlesim.com)
+* [官网](https://static.turtlesim.com/)
 * [物理实验室下载](https://static.turtlesim.com/products/physics-lab/)
 * [海龟实验室下载](https://static.turtlesim.com/products/turtle-universe/)
 
@@ -37,6 +37,10 @@ apk为安卓安装包，~~安全无~~毒，后期安装包更新超过100兆可�
 
 * [物理实验室IOS](https://testflight.apple.com/join/tGtt3yIq)
 * [海龟实验室IOS](https://testflight.apple.com/join/tg7pw4VV)
+
+### 问题反馈
+
+* [gitee仓库](https://gitee.com/organizations/turtle-sim/issues)
 
 ## 目录
 
