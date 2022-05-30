@@ -18,6 +18,8 @@ web端目录下跳转到本库的文章，在文章下会提供原文链接和�
 
 <mark style="color:red;">**文章的投稿格式请使用以下几种格式，否则不对乱码负责**</mark>
 
+<mark style="color:red;">**章节格式的投稿请将每章节单独成为一个文件，并将所有文件使用**</mark> `压缩包`<mark style="color:red;">**的方式发送给我**</mark>
+
 ![](../.gitbook/assets/image.png)
 
 {% hint style="info" %}
