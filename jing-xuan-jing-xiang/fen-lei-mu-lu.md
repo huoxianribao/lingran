@@ -24,4 +24,4 @@ gitbook不支持思维导图那种list，vscode链接不会用且为了比较方
 * 战争（会收录早期二战）
 * 文化/器物发展史
 * 教程与其他
-* 信息技术
+* [信息技术](fen-lei-mu-lu/xin-xi-ji-shu.md)
