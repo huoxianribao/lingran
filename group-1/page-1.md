@@ -20,14 +20,14 @@ web端目录下跳转到本库的文章，在文章下会提供原文链接和�
 
 <mark style="color:red;">**章节格式的投稿请将每章节单独成为一个文件，并将所有文件使用**</mark> `压缩包`<mark style="color:red;">**的方式发送给我**</mark>
 
+<mark style="color:red;">**邮件正文内请附上精选的链接**</mark>（物理实验室内生成的，点开后可跳转物理实验室）
+
 ![](../.gitbook/assets/image.png)
 
-{% hint style="info" %}
-求收录文章可发邮件到ziyilingran@qq.com，文章请使用附件发送
-
-邮件主题请在前面加【收录】 `例【收录】月球对地球的作用`
-
-文章需要使用特殊效果，docx/doc不会兼容颜色字，[具体点我看这里的效果](https://app.gitbook.com/s/gi2XzLKVW0Gvv3YFZWIq/\~/changes/ksliRF3mYPm0aNkmxcPy/jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia)
-
-需要html效果请使用markdown
-{% endhint %}
+> **求收录文章可发邮件到ziyilingran@qq.com，文章请使用附件发送，文章正文请附上精选的链接**
+>
+> 邮件主题请在前面加【收录】 `例【收录】月球对地球的作用`
+>
+> 文章需要使用特殊效果，docx/doc不会兼容颜色字，[具体点我看这里的效果](https://app.gitbook.com/s/gi2XzLKVW0Gvv3YFZWIq/\~/changes/ksliRF3mYPm0aNkmxcPy/jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia)
+>
+> 需要html效果请使用markdown
