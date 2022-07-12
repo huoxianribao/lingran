@@ -57,6 +57,7 @@
   * [战争（会收录早期二战）](jing-xuan-jing-xiang/fen-lei-mu-lu/zhan-zheng-hui-shou-lu-zao-qi-er-zhan.md)
   * [文化/器物发展史](jing-xuan-jing-xiang/fen-lei-mu-lu/wen-hua-qi-wu-fa-zhan-shi.md)
   * [教程与其他](jing-xuan-jing-xiang/fen-lei-mu-lu/jiao-cheng-yu-qi-ta.md)
+  * [信息技术](jing-xuan-jing-xiang/fen-lei-mu-lu/xin-xi-ji-shu.md)
 * [文章](jing-xuan-jing-xiang/wen-zhang.md)
 * [强基计划](jing-xuan-jing-xiang/qiang-ji-ji-hua.md)
 * [投稿演示](jing-xuan-jing-xiang/tou-gao-yan-shi/README.md)
