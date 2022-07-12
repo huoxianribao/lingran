@@ -58,7 +58,7 @@
   * [文化/器物发展史](jing-xuan-jing-xiang/fen-lei-mu-lu/wen-hua-qi-wu-fa-zhan-shi.md)
   * [教程与其他](jing-xuan-jing-xiang/fen-lei-mu-lu/jiao-cheng-yu-qi-ta.md)
   * [信息技术](jing-xuan-jing-xiang/fen-lei-mu-lu/xin-xi-ji-shu.md)
-* [文章](jing-xuan-jing-xiang/wen-zhang/README.md)
+* [文章](jing-xuan-jing-xiang/wen-zhang.md)
   * [对网络的研究和探索](jing-xuan-jing-xiang/wen-zhang/dui-wang-luo-de-yan-jiu-he-tan-suo.md)
 * [强基计划](jing-xuan-jing-xiang/qiang-ji-ji-hua.md)
 * [投稿演示](jing-xuan-jing-xiang/tou-gao-yan-shi/README.md)
