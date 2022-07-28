@@ -54,7 +54,7 @@ apk为安卓安装包，~~安全无毒~~，后期安装包更新超过100兆可�
 
 
 
-[精选总结](hei-dong-jing-xuan-guan-li-tiao-li.md)
+[精选总结](jing-xuan-zong-jie.md)
 
 `物理实验室内链接：`
 

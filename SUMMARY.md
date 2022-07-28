@@ -34,7 +34,7 @@
 
 ***
 
-* [黑洞精选管理条例](hei-dong-jing-xuan-guan-li-tiao-li.md)
+* [黑洞精选管理条例](jing-xuan-zong-jie.md)
 
 ## 精选镜像
 
