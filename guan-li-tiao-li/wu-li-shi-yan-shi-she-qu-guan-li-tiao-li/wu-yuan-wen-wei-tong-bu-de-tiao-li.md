@@ -13,6 +13,6 @@
 * [ ] [黑洞区精选管理条例（永存）](../../jing-xuan-zong-jie.md)
 * [ ] [精选候选标签规定](wu-yuan-wen-wei-tong-bu-de-tiao-li/jing-xuan-hou-xuan-biao-qian.md)【2022.6.4】
 * [ ] 六月通告
-* [ ] 小作品【2022.7.22】
+* [ ] [小作品](wu-yuan-wen-wei-tong-bu-de-tiao-li/xiao-zuo-pin.md)【2022.7.22】
 * [ ] 广告推送【2022.7.26】
 * [ ] 无意义改编/与原创内容不符将会被删去【2022.7.28】
