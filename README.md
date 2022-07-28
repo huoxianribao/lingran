@@ -33,6 +33,10 @@ apk为安卓安装包，~~安全无毒~~，后期安装包更新超过100兆可�
 
 ### IOS端tf测试链接
 
+{% hint style="info" %}
+不会吧不会吧，2022了还有人在iPad/iOS上下载apk吧
+{% endhint %}
+
 `无短链接`
 
 * [物理实验室IOS](https://testflight.apple.com/join/tGtt3yIq)
@@ -46,11 +50,11 @@ apk为安卓安装包，~~安全无毒~~，后期安装包更新超过100兆可�
 
 [管理条例](broken-reference)
 
-`物理实验室内链接：`
-
-
-
 [精选总结](jing-xuan-zong-jie.md)
 
-`物理实验室内链接：`
+> 以下链接至物理实验室，物理实验室内可能条例被覆盖而重发导致本wiki更新不及时或无法找到
+>
+> 管理条例：[https://turtlesim.com/plc/?chinese-discussion-620665aad58bcf00016aeb8b?](https://turtlesim.com/plc/?chinese-discussion-620665aad58bcf00016aeb8b?)
+>
+> 精选总结：[https://turtlesim.com/plc/?chinese-discussion-62bce6741258fe00012aa746?](https://turtlesim.com/plc/?chinese-discussion-62bce6741258fe00012aa746?)
 
