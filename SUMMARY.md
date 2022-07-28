@@ -30,7 +30,8 @@
     * [C：作品](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/c-zuo-pin.md)
     * [D：其它](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/d-qi-ta.md)
   * [四、后记](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/si-hou-ji.md)
-  * [五、原文未同步的条例](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li.md)
+  * [五、原文未同步的条例](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/README.md)
+    * [精选候选标签](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/jing-xuan-hou-xuan-biao-qian.md)
 
 ***
 

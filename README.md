@@ -33,6 +33,10 @@ apk为安卓安装包，~~安全无毒~~，后期安装包更新超过100兆可�
 
 ### IOS端tf测试链接
 
+{% hint style="info" %}
+不会吧不会吧，2022了还有人在iPad/iOS上下载apk吧
+{% endhint %}
+
 `无短链接`
 
 * [物理实验室IOS](https://testflight.apple.com/join/tGtt3yIq)
