@@ -79,3 +79,5 @@ coverY: 0
 [D：其它](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/san-bu-fen-ci-hui-de-ding-yi/d-qi-ta.md)
 
 ### [四、后记](wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/si-hou-ji.md)
+
+### <mark style="color:blue;">**五、原文未同步的条例**</mark>
