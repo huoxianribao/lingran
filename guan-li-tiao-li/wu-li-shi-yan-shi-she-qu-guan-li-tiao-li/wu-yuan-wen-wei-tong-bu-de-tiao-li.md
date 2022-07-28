@@ -10,8 +10,8 @@
 此目录并非官方划分
 {% endhint %}
 
-* [ ] [黑洞区精选管理条例（永存）](../../../jing-xuan-zong-jie.md)
-* [ ] 精选候选标签规定【2022.6.4】
+* [ ] [黑洞区精选管理条例（永存）](../../jing-xuan-zong-jie.md)
+* [ ] [精选候选标签规定](wu-yuan-wen-wei-tong-bu-de-tiao-li/jing-xuan-hou-xuan-biao-qian.md)【2022.6.4】
 * [ ] 六月通告
 * [ ] 小作品【2022.7.22】
 * [ ] 广告推送【2022.7.26】
