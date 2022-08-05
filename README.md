@@ -16,31 +16,46 @@ coverY: 0
 
 ## 下载
 
+{% hint style="info" %}
+自2022年8月后(物理实验室2.4.0/海龟1.2.0)，官方下载渠道均为64位版本，32位版本请到镜像区下载
+{% endhint %}
+
 * [官网](https://static.turtlesim.com/)
 * [物理实验室下载](https://static.turtlesim.com/products/physics-lab/)
 * [海龟实验室下载](https://static.turtlesim.com/products/turtle-universe/)
 
-### 紫逸的蓝奏云备份
+### 用户自发上传的镜像
 
 {% hint style="info" %}
 rar/zip/7z属于电脑版本，来源于开发者
 
-apk为安卓安装包，~~安全无毒~~，后期安装包更新超过100兆可能会压缩或转到github下载
+apk/.apk.zip为安卓安装包，~~安全无毒~~，.apk.zip需要解压后才能安装。
 {% endhint %}
 
-* [物理实验室](https://z1y.lanzouw.com/b00ngmk7e)&#x20;
-* [海龟实验室](https://z1y.lanzouw.com/b00ogcegd) 密码：6qpp
+* [【64位】紫逸的物理实验室 ](https://z1y.lanzouw.com/b00ngmk7e)
+* [【64位】紫逸海龟实验室](https://z1y.lanzouw.com/b00ogcegd)（平时懒得上传） 密码：6qpp
+* [Chen的onedrive镜像](https://pan.dvrz.cn/)（无邮箱验证，全端都在内）
 
-### IOS端tf测试链接
+### 苹果生态下testflight测试链接
 
 {% hint style="info" %}
 不会吧不会吧，2022了还有人在iPad/iOS上下载apk吧
+
+<mark style="color:red;">**iPhone/iPod/iPad用户请使用本栏下的链接**</mark>
 {% endhint %}
 
 `无短链接`
 
-* [物理实验室IOS](https://testflight.apple.com/join/tGtt3yIq)
-* [海龟实验室IOS](https://testflight.apple.com/join/tg7pw4VV)
+#### 测试版本
+
+* [物理实验室](https://testflight.apple.com/join/tGtt3yIq)
+* [海龟实验室](https://testflight.apple.com/join/tg7pw4VV)
+
+#### 正式版本
+
+* [物理实验室](https://appstore.com/physicslabar)
+* [iPhone/iPad/iPod端海龟实验室](https://apps.apple.com/us/app/turtle-universe/id1455235317)
+* [MacOS端海龟实验室请去官网下载](https://static.turtlesim.com/products/turtle-universe/)
 
 ### 问题反馈
 
