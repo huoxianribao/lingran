@@ -18,6 +18,8 @@
 
 ## 更新预览
 
+****[**点我跳转到条例部分**](jing-xuan-zong-jie.md#wen-zhang-yao-qiu)****
+
 #### 2022.7.16
 
 * 文章要求的板块下内容排序，gitbook再排版
