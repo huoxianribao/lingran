@@ -61,6 +61,11 @@ apk/.apk.zip为安卓安装包，~~安全无毒~~，.apk.zip需要解压后才�
 
 * [gitee仓库](https://gitee.com/organizations/turtle-sim/issues)
 
+### Discord
+
+* [物理实验室](https://discord.gg/7yjNwTkM)
+* [海龟实验室](https://discord.gg/tFCbyf6H)
+
 ## 目录
 
 [管理条例](broken-reference)
