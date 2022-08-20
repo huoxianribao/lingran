@@ -49,7 +49,7 @@ apk/.apk.zip为安卓安装包，~~安全无毒~~，.apk.zip需要解压后才�
 #### 测试版本
 
 * [物理实验室](https://testflight.apple.com/join/tGtt3yIq)
-* [海龟实验室](https://testflight.apple.com/join/tg7pw4VV)
+* [海龟实验室](https://testflight.apple.com/join/5rohV0kg)
 
 #### 正式版本
 
