@@ -38,6 +38,7 @@
 ***
 
 * [黑洞精选管理条例](jing-xuan-zong-jie.md)
+* [实验区作品要求一览](shi-yan-qu-zuo-pin-yao-qiu-yi-lan.md)
 
 ## 精选镜像
 
