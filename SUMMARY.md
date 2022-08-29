@@ -72,3 +72,4 @@
 * [16号管理者语录](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/README.md)
   * [好兄弟](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/hao-xiong-di.md)
   * [我懂法律](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/wo-dong-fa-lv.md)
+  * [建议你不要以这种语气说话](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/jian-yi-ni-bu-yao-yi-zhe-zhong-yu-qi-shuo-hua.md)
