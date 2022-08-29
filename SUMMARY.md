@@ -71,3 +71,4 @@
   * [目录](jing-xuan-jing-xiang/tou-gao-yan-shi/mu-lu.md)
 * [16号管理者语录](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/README.md)
   * [好兄弟](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/hao-xiong-di.md)
+  * [我懂法律](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/wo-dong-fa-lv.md)
