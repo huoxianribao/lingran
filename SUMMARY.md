@@ -69,3 +69,5 @@
 * [投稿演示](jing-xuan-jing-xiang/tou-gao-yan-shi/README.md)
   * [word文件导入效果如下](jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia.md)
   * [目录](jing-xuan-jing-xiang/tou-gao-yan-shi/mu-lu.md)
+* [16号管理者语录](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/README.md)
+  * [Page 1](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/page-1.md)
