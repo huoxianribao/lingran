@@ -14,7 +14,7 @@ coverY: 0
 **各位每次阅读前请用ctrl+f5刷新缓存，手机端可以使用无痕/隐身模式再浏览**
 {% endhint %}
 
-## 下载
+## 官网下载
 
 {% hint style="info" %}
 自2022年8月后(物理实验室2.4.0/海龟1.2.0)，官方下载渠道均为64位版本，32位版本请到镜像区下载
@@ -49,7 +49,7 @@ apk/.apk.zip为安卓安装包，~~安全无毒~~，.apk.zip需要解压后才�
 #### 测试版本（可能更新不及时）
 
 * [物理实验室](https://testflight.apple.com/join/bSgaVHU4)
-* [海龟实验室](https://testflight.apple.com/join/bSgaVHU4)
+* [海龟实验室](https://testflight.apple.com/join/5rohV0kg)
 
 #### 正式版本
 
