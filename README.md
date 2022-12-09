@@ -8,7 +8,7 @@ coverY: 0
 
 这是由紫逸个人创建的gitbook，用于收集物理实验室中国区的管理条例以及一些帮助
 
-此网站并非属于turtlesim.com，由紫逸个人维护此网站
+此网站并非属于turtlesim.com，本wiki由紫逸个人维护
 
 {% hint style="info" %}
 由于gitbook的问题，更新完内容后再次打开网页不会刷新新内容。
