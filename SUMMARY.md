@@ -69,8 +69,3 @@
 * [投稿演示](jing-xuan-jing-xiang/tou-gao-yan-shi/README.md)
   * [word文件导入效果如下](jing-xuan-jing-xiang/tou-gao-yan-shi/word-wen-jian-dao-ru-xiao-guo-ru-xia.md)
   * [目录](jing-xuan-jing-xiang/tou-gao-yan-shi/mu-lu.md)
-* [16号管理者语录](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/README.md)
-  * [好兄弟](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/hao-xiong-di.md)
-  * [我懂法律](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/wo-dong-fa-lv.md)
-  * [建议你不要以这种语气说话](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/jian-yi-ni-bu-yao-yi-zhe-zhong-yu-qi-shuo-hua.md)
-  * [好社区](jing-xuan-jing-xiang/16-hao-guan-li-zhe-yu-lu/hao-she-qu.md)
