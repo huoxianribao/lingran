@@ -41,7 +41,7 @@ apk/.apk.zip为安卓安装包，~~安全无毒~~，.apk.zip需要解压后才�
 ### 苹果生态下testflight测试链接
 
 {% hint style="info" %}
-不会吧不会吧，2022了还有人在iPad/iOS上下载apk吧
+暂不提供ipa文件
 
 <mark style="color:red;">**iPhone/iPod/iPad用户请使用本栏下的链接**</mark>
 {% endhint %}
