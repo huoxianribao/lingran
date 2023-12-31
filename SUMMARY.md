@@ -34,6 +34,7 @@
     * [精选候选标签](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/jing-xuan-hou-xuan-biao-qian.md)
     * [小作品](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/xiao-zuo-pin.md)
     * [广告推送管理](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/guang-gao-tui-song-guan-li.md)
+* [物理实验室使用条款](guan-li-tiao-li/wu-li-shi-yan-shi-shi-yong-tiao-kuan.md)
 
 ***
 
