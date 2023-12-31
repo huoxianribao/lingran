@@ -34,14 +34,16 @@
     * [精选候选标签](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/jing-xuan-hou-xuan-biao-qian.md)
     * [小作品](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/xiao-zuo-pin.md)
     * [广告推送管理](guan-li-tiao-li/wu-li-shi-yan-shi-she-qu-guan-li-tiao-li/wu-yuan-wen-wei-tong-bu-de-tiao-li/guang-gao-tui-song-guan-li.md)
-* [物理实验室的其他基本规定](guan-li-tiao-li/wu-li-shi-yan-shi-de-qi-ta-ji-ben-gui-ding/README.md)
-  * [【机翻】物理实验室使用条款](guan-li-tiao-li/wu-li-shi-yan-shi-de-qi-ta-ji-ben-gui-ding/ji-fan-wu-li-shi-yan-shi-shi-yong-tiao-kuan.md)
-  * [【机翻】物理实验室隐私协议](guan-li-tiao-li/wu-li-shi-yan-shi-de-qi-ta-ji-ben-gui-ding/ji-fan-wu-li-shi-yan-shi-yin-si-xie-yi.md)
 
 ***
 
 * [黑洞精选管理条例](jing-xuan-zong-jie.md)
 * [实验区作品要求一览](shi-yan-qu-zuo-pin-yao-qiu-yi-lan.md)
+
+## 物理实验室其他规定
+
+* [【机翻】物理实验室使用条款](wu-li-shi-yan-shi-qi-ta-gui-ding/ji-fan-wu-li-shi-yan-shi-shi-yong-tiao-kuan.md)
+* [【机翻】物理实验室隐私协议](wu-li-shi-yan-shi-qi-ta-gui-ding/ji-fan-wu-li-shi-yan-shi-yin-si-xie-yi.md)
 
 ## 精选镜像
 
