@@ -9,7 +9,7 @@
 
 <mark style="color:red;">码字请使用WPS/Office/笔记/便签，更推荐使用支持云同步的软件。</mark>
 
-<mark style="color:red;">**新版本物理实验室码字可能会闪退且无法恢复未保存的实验介绍里的内容。**</mark>
+<mark style="color:red;">由于物理实验室app制作的特殊性，不建议在本软件内进行文字编辑，您的设备过差可能会导致资料全部丢失，建议使用便签或者专业的办公软件进行文字编辑。</mark>
 {% endhint %}
 
 ## 更新预览
